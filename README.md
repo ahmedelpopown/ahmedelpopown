@@ -15,7 +15,7 @@
   
 </p>
 
-![Coding Animation](https://media.giphy.com/media/3o7TKyP1i36t3jLjQQ/giphy.gif)
+[![Coding Animation](https://media.giphy.com/media/3o7TKyP1i36t3jLjQQ/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpidGN3ODg3dW50cm9kOWR6eDFsZnd2dmtxNjl5M2hrbnoyOTNxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif)
 
 ---
 ![Snake animation](https://raw.githubusercontent.com/ahmedelpopown/ahmedelpopown/output/github-contribution-grid-snake.svg)
