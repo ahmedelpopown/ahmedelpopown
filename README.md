@@ -18,6 +18,7 @@
 ![Coding Animation](https://media.giphy.com/media/3o7TKyP1i36t3jLjQQ/giphy.gif)
 
 ---
+![Snake animation](https://raw.githubusercontent.com/ahmedelpopown/ahmedelpopown/output/github-contribution-grid-snake.svg)
 
 ## 🖥 Backend Development
 
