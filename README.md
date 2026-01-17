@@ -15,7 +15,7 @@
   
 </p>
 
-[![Coding Animation](https://media.giphy.com/media/3o7TKyP1i36t3jLjQQ/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpidGN3ODg3dW50cm9kOWR6eDFsZnd2dmtxNjl5M2hrbnoyOTNxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif)
+![Coding Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnpidGN3ODg3dW50cm9kOWR6eDFsZnd2dmtxNjl5M2hrbnoyOTNxdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lSVL6vdhdZVPW/giphy.gif)
 
 ---
 ![Snake animation](https://raw.githubusercontent.com/ahmedelpopown/ahmedelpopown/output/github-contribution-grid-snake.svg)
@@ -67,19 +67,18 @@ I have hands-on experience with **React**, building interactive and user-friendl
 ### 1. E-commerce Dashboard
 **Tech Stack:** Laravel + React + Redux + Tailwind  
 Manage products, filters, dynamic shopping cart, and orders  
-![E-commerce Demo](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![E-commerce Demo](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDZsZGo5dGF3Y2d3YXgzNjJwbnJ5cHZ3ZmZ0YW1vMDZweDZldzVnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FQZzbpEE995fNEnJk5/giphy.gif)
 
-### 2. Barcode Cart System
+### 2. Booking System
 **Tech Stack:** Laravel + Livewire  
-Scan product barcodes, validate quantities, and finalize orders  
-![Barcode Demo](https://media.giphy.com/media/3o7TKxM6MjxR4K4yXY/giphy.gif)
+Manage appointments, reservations, and schedules efficiently  
+![Booking Demo](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-### 3. Portfolio Website
-**Tech Stack:** React + Three.js  
-Interactive 3D animations and modern UI design  
-![Portfolio Demo](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+### 3. CMS Platform
+**Tech Stack:** Laravel + React  
+Create, edit, and manage content with an intuitive admin interface  
+![CMS Demo](https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif)
 
- 
  
  
 ## 📫 Contact Me
