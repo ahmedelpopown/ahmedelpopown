@@ -1,6 +1,11 @@
 # 👋 Hi, I'm Ahmed abdeldayem
 
- 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+ <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&background=31F1FF00&center=true&vCenter=true&random=true&width=435&lines=Backend+developer;Laravel+%26+php" alt="Typing SVG" /></a>
+</p>
+
+
 <p align="center">
   Backend Developer | Laravel & PHP | React Enthusiast
   
@@ -73,7 +78,9 @@ Scan product barcodes, validate quantities, and finalize orders
 Interactive 3D animations and modern UI design  
 ![Portfolio Demo](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-
+ 
+ 
+ 
 ## 📫 Contact Me
 
 <div align="center">
