@@ -1,8 +1,14 @@
-# 👋 Hi, I'm Bashmandes Ahmed
+# 👋 Hi, I'm Ahmed abdeldayem
 
-**Backend Developer | Laravel & PHP | React Enthusiast**
-
+ 
+<p align="center">
+  Backend Developer | Laravel & PHP | React Enthusiast
+  
+</p>
+<p align="center">
 🎯 Passionate about building scalable and interactive web applications.
+  
+</p>
 
 ![Coding Animation](https://media.giphy.com/media/3o7TKyP1i36t3jLjQQ/giphy.gif)
 
@@ -52,33 +58,30 @@ I have hands-on experience with **React**, building interactive and user-friendl
 
 ## 💼 Top 3 Projects
 
-<div align="center">
+### 1. E-commerce Dashboard
+**Tech Stack:** Laravel + React + Redux + Tailwind  
+Manage products, filters, dynamic shopping cart, and orders  
+![E-commerce Demo](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-### 1. **E-commerce Dashboard**
-- **Tech Stack:** Laravel + React + Redux + Tailwind
-- Manage products, filters, dynamic shopping cart, and orders
-- <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="E-commerce Demo" width="300"/>
+### 2. Barcode Cart System
+**Tech Stack:** Laravel + Livewire  
+Scan product barcodes, validate quantities, and finalize orders  
+![Barcode Demo](https://media.giphy.com/media/3o7TKxM6MjxR4K4yXY/giphy.gif)
 
-### 2. **Barcode Cart System**
-- **Tech Stack:** Laravel + Livewire
-- Scan product barcodes, validate quantities, and finalize orders
-- <img src="https://media.giphy.com/media/3o7TKxM6MjxR4K4yXY/giphy.gif" alt="Barcode Demo" width="300"/>
+### 3. Portfolio Website
+**Tech Stack:** React + Three.js  
+Interactive 3D animations and modern UI design  
+![Portfolio Demo](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
-### 3. **Portfolio Website**
-- **Tech Stack:** React + Three.js
-- Interactive 3D animations and modern UI design
-- <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Portfolio Demo" width="300"/>
-
-</div>
-
----
 
 ## 📫 Contact Me
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedelpopown)  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedelpopown)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed@example.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedelpopown)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedelpopown)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed@example.com)
+
 </div>
 
 ---
